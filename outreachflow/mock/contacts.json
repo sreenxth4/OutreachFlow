@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Harshil Mathur",
+    "title": "CEO",
+    "linkedin_url": "https://www.linkedin.com/in/harshilmathur",
+    "company_name": "Razorpay",
+    "company_domain": "razorpay.com",
+    "email": "harshil@razorpay.com"
+  },
+  {
+    "name": "Shashank Kumar",
+    "title": "Co-Founder & CTO",
+    "linkedin_url": "https://www.linkedin.com/in/shashank-kumar-razorpay",
+    "company_name": "Razorpay",
+    "company_domain": "razorpay.com",
+    "email": "shashank@razorpay.com"
+  },
+  {
+    "name": "Don Cowper",
+    "title": "CEO",
+    "linkedin_url": "https://www.linkedin.com/in/donchicken",
+    "company_name": "FreshBooks",
+    "company_domain": "freshbooks.com",
+    "email": "don@freshbooks.com"
+  },
+  {
+    "name": "Krish Subramanian",
+    "title": "Co-Founder & CEO",
+    "linkedin_url": "https://www.linkedin.com/in/krishsubramanian",
+    "company_name": "Chargebee",
+    "company_domain": "chargebee.com",
+    "email": "krish@chargebee.com"
+  },
+  {
+    "name": "Rajaraman Santhanam",
+    "title": "CTO",
+    "linkedin_url": "https://www.linkedin.com/in/rajaramansanthanam",
+    "company_name": "Chargebee",
+    "company_domain": "chargebee.com",
+    "email": "rajaraman@chargebee.com"
+  },
+  {
+    "name": "Christian Owens",
+    "title": "Founder & CEO",
+    "linkedin_url": "https://www.linkedin.com/in/christianowens",
+    "company_name": "Paddle",
+    "company_domain": "paddle.com",
+    "email": "christian@paddle.com"
+  },
+  {
+    "name": "Scott Galit",
+    "title": "CEO",
+    "linkedin_url": "https://www.linkedin.com/in/scottgalit",
+    "company_name": "Payoneer",
+    "company_domain": "payoneer.com",
+    "email": "scott@payoneer.com"
+  },
+  {
+    "name": "Keren Levy",
+    "title": "VP Operations",
+    "linkedin_url": "https://www.linkedin.com/in/kerenlevy",
+    "company_name": "Payoneer",
+    "company_domain": "payoneer.com",
+    "email": "keren@payoneer.com"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Razorpay",
+    "domain": "razorpay.com"
+  },
+  {
+    "name": "FreshBooks",
+    "domain": "freshbooks.com"
+  },
+  {
+    "name": "Chargebee",
+    "domain": "chargebee.com"
+  },
+  {
+    "name": "Paddle",
+    "domain": "paddle.com"
+  },
+  {
+    "name": "Payoneer",
+    "domain": "payoneer.com"
+  }
+]
